@@ -7,7 +7,7 @@ We didn't really face a challenging problems in this first lab as we did have a 
 ![](https://lh3.googleusercontent.com/ESRgQxQhq_0t2QsGiVdSGTpDUPBjTY-nobYc67rJRjffbJkxk4quKJtCZDcrwgZpS-f3CkqpKYhy "Analog i nput")
 
 ## Analog input code : 
-
+```
 int sensorPin = A0;    // select the input pin for the potentiometer
 int ledPin = 13;      // select the pin for the LED
 int sensorValue = 0;  // variable to store the value coming from the sensor
@@ -29,7 +29,7 @@ void loop() {
   // stop the program for for <sensorValue> milliseconds:
   delay(sensorValue);
 }
-
+```
 As It's explained, We take a value from the potentiometer with the function analogRead and put it in ledPin with digitalWrite
 
 
