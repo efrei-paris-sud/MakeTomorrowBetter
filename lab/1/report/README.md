@@ -39,7 +39,8 @@ As It's explained, We take a value from the potentiometer with the function anal
 ## Fading exemple Code
 We have used the analogWrite() function in
  this exemple
-
+ 
+```
 int ledPin = 9;    // LED connected to digital pin 9
 
 void setup() {
@@ -63,6 +64,7 @@ void loop() {
     delay(30);
   }
 }
+```
 Here is to set a for loop changing from 0 to 255 and put value in ledPin every time with analogWrite function
 
 ## Button exercice Diagram
@@ -70,7 +72,7 @@ Here is to set a for loop changing from 0 to 255 and put value in ledPin every t
 
 
 ## Button exercice Code
-
+```
 const int buttonPin = 2;     // the number of the pushbutton pin
 const int ledPin =  13;      // the number of the LED pin
 
@@ -98,4 +100,5 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
+```
 
