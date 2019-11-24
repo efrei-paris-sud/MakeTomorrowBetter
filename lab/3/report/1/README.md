@@ -4,4 +4,4 @@ We leared about I2C connection for the first time
 
 ![Test](photo1.png?raw=true)
 
-![Test](photo2.png?raw=true)
+![Test](photo11.png?raw=true)
