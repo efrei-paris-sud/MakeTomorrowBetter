@@ -8,3 +8,8 @@ Here we have found some problems coding this part because I2C send only one byte
 
 and finaly we have (using the previous exemples to ) to show all this data in console
 
+![Photo](photo.jpg?raw=true)
+
+![Photo](plot1.png?raw=true)
+
+![Photo](plot11.png?raw=true)

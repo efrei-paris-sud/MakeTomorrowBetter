@@ -5,5 +5,6 @@ I2C is asyncrous (no full duplex support)
 
 
 We also installed some libaries to upload code to ESP32 using arduino program
-and How to create two instances for it to run simaltounsly the serial port
+and How to create two instances for it to run simaltounsly the serial communication and test our solution
 
+![Test](photo2.jpg?raw=true)
